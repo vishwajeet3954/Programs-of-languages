@@ -1,7 +1,0 @@
-SET B
-
-1. Accept dimensions of cylinder and print the surface area and volume. (surface area =2𝜋𝑟^2+2𝜋𝑟ℎ, volume=𝜋𝑟^2ℎ).
-2. Accept temperature in Fahrenheit(f).print it in Celsius (c) and kelvin(k).(c=5/9(f-32),k=c+273.15).
-3. Accept initial velocity(u), acceleration(a) and time(t). print the final velocity (v) and distance(s) travel.(v=u + at , s=u+at^2).
-4. Accept inner radius (a) and outer radius(b) of a ring and print the perimeter and area of the ring.(P=2𝜋(a+b),A=(a2-b2).
-5. Accept length , breadth , and height of a cuboid and print surface area and volume.(sa=2*(lb+lh+bh), v=l*b*h).
