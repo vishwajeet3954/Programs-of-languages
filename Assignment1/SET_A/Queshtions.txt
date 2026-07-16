@@ -1,0 +1,7 @@
+SET A  
+
+1. Write a C program to accept base and height of triangle from user, calculate area of triangle and display it. 
+2. Write a C program to accept length and breadth of rectangle from user, calculate area of rectangle and display it. 
+3. Write a C program to accept radius of circle from user, calculate area of circle and display it. 
+4. Write a C program to accept radius of circle from user, calculate circumference of circle and display it. 
+5. Write a C program to accept side of square from user, calculate area of square and display it.

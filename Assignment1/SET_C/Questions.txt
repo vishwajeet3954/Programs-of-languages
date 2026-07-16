@@ -1,0 +1,7 @@
+SET C
+
+1. Accept co-ordinates of two points and compute the distance between the two points.(sqrt((x2-x1)^2+(y2-y1)^2) 
+2. Find the area of triangle whose sides are a,b,c  (s=(a+b+c)/2, area=sqrt(s(s-a)(s-b)(s-c)). 
+3. Calculate simple interest (S.I=(amount*rate*time)/100). 
+4. Accept cost price and selling price. calculate profit (profit=selling price –cost price). 
+5. Accept marks of physics, maths, chemistry, biology, marathi, english of student and calculate total marks and percentage of that student.
