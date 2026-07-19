@@ -1,8 +1,0 @@
-SET B
-
-1. Write a ‘C’ program to check given year is leap year or not. 
-2. Write a ‘C’ program to accept three numbers and check whether the first number is between the other two numbers. 
-3. Write a ‘C’ program to accept lower case character from the user and check whether character is vowel or not. 
-4. Write a ‘C’ program to accept three sides of triangle as input and print whether the triangle is valid or not. 
-5. Accept cost price and selling price from the keyword and find out the seller has made profit or loss and display 
-how much profit or loss has been made.
