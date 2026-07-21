@@ -1,0 +1,15 @@
+ 
+SET B
+
+1. Write a ‘C’ program which accept two integer number and perform menu driven addition, subtraction, division, 
+multiplication, reminder. (Using switch case) 
+
+2. Write a ‘C’ program, accept two integer numbers and perform following operation 
+	1: equality 
+	2: less than 
+	3: quotient and remainder  
+	4: greater than 
+
+3. Write a ‘C’ program, accept radius from user and having menu option. 
+	1: area of circle 
+	2: circumference of circle 

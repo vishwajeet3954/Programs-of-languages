@@ -1,0 +1,10 @@
+  
+SET C 
+
+1. Write a ‘C’ program having menu with following option  
+	1: area of square 
+	2: area of rectangle 
+	3: area of triangle
+ 
+2. Write a ‘C’ program to accept marks for 3 subject and find the total marks, average and display the class obtained 
+((distinction >70), (class-I 60-69), (class-II 50-59), (class-III 40-49), (fail <40)).  (Using switch case) 

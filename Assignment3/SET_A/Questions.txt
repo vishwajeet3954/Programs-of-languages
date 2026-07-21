@@ -1,0 +1,12 @@
+
+SET A 
+
+1. Write a ‘C’ program which shows following options. 
+ 	1: option 1 
+ 	2: option 2 
+ 	3: option 3 
+	4: option 4 
+ Select choice 
+2. Write a ‘C’ program, accept a single digit from the user and display it in words. (Using switch case) 
+3. Write a ‘C’ program which accept the week day as number from user and display Monday to Sunday. 
+4. Write a ‘C’ program to check whether a given character is VOWEL or CONSONANT using switch case.
