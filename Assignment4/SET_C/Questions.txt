@@ -1,0 +1,8 @@
+ 
+SET C 
+ 
+1. Write a C program to accept number n and check whether it is Armstrong number or not. 
+2. Write a C program to accept number n and display its reverse number.  
+3. Write a C program to accept number n and check it is palindrome number or not. 
+4. Write a C program to check given number is perfect number or not. 
+5. Write a C program to accept number n and check whether it is prime number or not. 

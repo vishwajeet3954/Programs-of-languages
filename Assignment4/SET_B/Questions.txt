@@ -1,0 +1,9 @@
+ 
+SET B 
+ 
+1. Write a C program to accept n and display its factorial using for loop. 
+2. Write a C program to accept number x and y and compute x^y using for loop.  
+3. Write a C program to accept number x and y. display numbers between x and y (if range is valid) using 
+for loop. 
+4. Write a C program to accept number n and display its individual digits. 
+5. Write a C program to accept number n and display addition of its digit.

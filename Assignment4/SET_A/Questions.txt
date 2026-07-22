@@ -1,0 +1,8 @@
+ 
+SET A 
+
+1. Write a C program to print 1 to n numbers using for, while, do while loop. 
+2. Write a C program to print n to 1 number using for, while, do while loop. 
+3. Write a C program to print addition of 1 to 5 numbers using for loop. 
+4. Write a C program to accept number n and display even numbers between 1 to n using while loop. 
+5. Write a C program to accept number n and display its table using for loop.
