@@ -1,0 +1,15 @@
+ 
+SET B 
+ 
+1. Write a C program to print following pattern if n=5 then output should be 
+		* 
+	       * * 
+	      * * * 
+	     * * * * 
+ 	    * * * * * 
+ 
+2. Write a C program to pattern program of stars and alphabets 
+            * 
+	   *A* 
+  	  *A*A* 
+	 *A*A*A* 

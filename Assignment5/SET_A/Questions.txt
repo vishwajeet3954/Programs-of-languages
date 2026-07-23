@@ -1,0 +1,28 @@
+ SET A  
+1. Write a C program to accept n and display following pattern.  
+                    * * * * 
+                    * * * * 
+                    * * * * 
+                
+2. Write a C program to accept n and display following pattern.   
+                    1 2 3 4 
+                    1 2 3 4 
+                    1 2 3 4 
+                    1 2 3 4 
+ 
+3. Write a C program to accept n and display following pattern.   
+                    * 
+                    * * 
+                    * * * 
+ 
+4. Write a C program to accept n and display following pattern.   
+1  
+1    2  
+1    2    3 
+ 
+5. WAP to inverted half pyramid using * and numbers 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
