@@ -1,0 +1,7 @@
+
+SET A 
+ 
+1. Write a program to find the maximum and minimum elements in a 1-D array. 
+2. Write a program to find the sum and average of elements in a 1-D array. 
+3. Write a program to search for an element in an array  
+4. Write a program to sort an array.

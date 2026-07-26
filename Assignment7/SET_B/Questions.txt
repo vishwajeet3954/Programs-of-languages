@@ -1,0 +1,8 @@
+ 
+SET B 
+ 
+1. Write a program to perform matrix addition using 2-D arrays. 
+2. Write a program to perform matrix subtraction using 2-D arrays. 
+3. Write a program to multiply two matrices using 2-D arrays. 
+4. Write a program to find the transpose of a matrix using a 2-D array. 
+5. Write a program to check whether a matrix is symmetric or not.
