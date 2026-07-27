@@ -1,0 +1,8 @@
+ 
+SET C 
+
+1. Write a program to compare two strings using pointers. 
+2. Write a program to demonstrate the use of function pointers by implementing a callback function. 
+3. Write a program to demonstrate pointer to pointer (double pointers). 
+4. Write a program to demonstrate command-line arguments by printing the arguments passed to the program. 
+5. Write a program to find the largest and smallest string in an array of strings using pointers.
